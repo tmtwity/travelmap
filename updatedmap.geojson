@@ -149,7 +149,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Whangarei"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +162,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Morrinsville"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -172,7 +175,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Taupo"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -290,6 +295,32 @@
               -38.62545397209084
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taupo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.077880859375,
+          -38.68658172716674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiiwi Lakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.6535930633545,
+          -35.81440275634068
         ]
       }
     }
